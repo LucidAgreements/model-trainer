@@ -1,0 +1,13 @@
+huggingface_hub
+datasets
+transformers
+torch
+evaluate
+ipywidgets
+soundfile
+librosa
+openai-whisper
+jiwer
+accelerate
+tensorboard
+protobuf
