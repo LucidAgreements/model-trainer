@@ -34,3 +34,11 @@ python3 ./test.py
 ```
 
 ## Research Hints & Errors
+
+![image_1](images/image_1.png)
+
+![image_2](images/image_2.png)
+
+![image_3](images/image_3.png)
+
+![image_4](images/image_4.png)
