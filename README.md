@@ -22,3 +22,15 @@ choco install ffmpeg
 # on Windows using Scoop (https://scoop.sh/)
 scoop install ffmpeg
 ```
+
+## Build
+
+User Jupyter Notebook to train and store model.
+
+## Test
+
+```bash
+python3 ./test.py 
+```
+
+## Research Hints & Errors
